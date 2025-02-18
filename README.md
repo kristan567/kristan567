@@ -13,7 +13,6 @@
 
 - 👯 I’m looking to collaborate on **working Further as a backend developer projects**
 
-- 🤝 I’m looking for help with **Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kristan567](https://github.com/kristan567)
 
